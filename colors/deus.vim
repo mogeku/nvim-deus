@@ -255,7 +255,7 @@ local NONE = {}
 
 --[[ These are the ones you should edit. ]]
 -- This is the only highlight that must be defined separately.
-local highlight_group_normal = {bg=black, fg=dslight1}
+local highlight_group_normal = {bg=none, fg=dslight1}
 
 -- This is where the rest of your highlights should go.
 local highlight_groups = {
